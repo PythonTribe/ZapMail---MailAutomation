@@ -1,0 +1,19 @@
+Subject: G10X/Etihad Airways WSR (Cashflow Forecasting POC) 26 Jul '24
+Sender: Sachin Sasikumar (G10X, IND)
+ReceivedTime: 2024-07-26 18:04:42.832000+00:00
+Body: Project ID: ETIHAD-CHFL-0001-00
+
+Project Name:  Cashflow Forecasting POC
+
+Status: AMBER
+
+ 
+
+
+To: jfurness@etihad.ae; Shafraz Ahmed Rashad; RVarghese@etihad.ae; Binny Bhagowati; jhornopia@etihad.ae
+CC: Joe Nalkara; Steve Evans (G10X, GBR); Tanveer Pasha (G10X, UAE); Manoj Govindan (G10X, UAE); Kannan Sekar (G10X, IND); Rakesh Sheshadri (G10X, IND); Delivery Reports @ G10X
+BCC: 
+Attachments: ['G10X Etihad Airways WSR Cashflow Forecasting 26 July 24.pdf', 'image001.jpg']
+Importance: 1
+Categories: 
+
