@@ -7,7 +7,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import pandas as pd
 
-s=Service(r"C:\Users\Admin\Desktop\21-09-2024_10-13\Backup 1\Single Source\Data Vault\Data Backup\Master_001\Master Folder\HD Backup\AIChorder.com\chromedriver-win64\chromedriver-win64\chromedriver.exe")
+s=Service(r"C:\Program Files\chromedriver-win64\chromedriver.exe")
 
 driver=webdriver.Chrome(service = s)
 
